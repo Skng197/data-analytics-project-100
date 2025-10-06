@@ -1,0 +1,9 @@
+# Файлы, создаваемые кодом
+conversion.json
+ads.json
+charts/
+
+# Временные файлы
+__pycache__/
+.ipynb_checkpoints
+.env
